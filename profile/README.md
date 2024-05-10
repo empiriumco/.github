@@ -6,4 +6,4 @@ We are currently in stealth mode. Follow us for updates as we work towards the f
 
 www.empirium.co
 
-[Track our progress](https://github.com/orgs/empiriumco/projects/2)
+For our team members, [track our progress here](https://github.com/orgs/empiriumco/projects/2)
