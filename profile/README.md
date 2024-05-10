@@ -5,3 +5,5 @@ Manufacturing in the US is broken. We aim to fix it. Using bleeding edge tech, w
 We are currently in stealth mode. Follow us for updates as we work towards the future of logistics.
 
 www.empirium.co
+
+[Track our progress](https://github.com/orgs/empiriumco/projects/2)
